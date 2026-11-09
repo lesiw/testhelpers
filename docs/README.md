@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/testhelpers](https://github.com/lesiw/tools/tree/main/analyzers/testhelpers).
+
 # lesiw.io/testhelpers
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/testhelpers.svg)](https://pkg.go.dev/lesiw.io/testhelpers)
